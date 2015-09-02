@@ -1,0 +1,9 @@
+name: EmptyOrganic
+main: fr.mrtheo95.emptyorganic.EmptyOrganic
+version: 1.0
+description: Empty organic
+author: MrTheo95
+commands:
+  emptyorganic:
+    description: command
+    aliases: [eo]
